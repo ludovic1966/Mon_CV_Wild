@@ -1,0 +1,99 @@
+body
+{
+    background-color: rgb(107,187,285);
+    color: black;
+    border: 3px black solid;
+}
+
+img
+{
+    margin-left: 50px;
+}
+
+#header
+{
+    color: black;
+    height: 150px;
+	border: 3px black solid; 
+}
+
+#container
+{
+	display: inline-block;
+    color: black;
+    height: 900px;
+    width: 100%;
+    border: 3px black solid;
+}
+
+#left_box
+{
+	display: inline-block;
+	background-color: rgb(9,30,45);
+    color: white;
+    float: left;
+    margin-left: 50px;
+    height: 800px;
+    width: 300px;
+    border: 3px black solid;
+}
+    
+#right_box
+{
+	display: inline-block;
+    color: black;
+    margin-left: 100px;
+    height: 800px;
+    width: 900px;
+    border: 3px black solid;
+}
+
+#experiences_box
+{
+	display: inline-block;
+	background-color: white;
+    color: black;
+    margin-left: 50px;
+    height: 300px;
+    width: 800px;
+    border: 3px black solid;
+}
+
+#class_experiences
+{
+	display: inline-block;
+    color: black;
+    margin-left: 50px;
+    height: 200px;
+    width: 600px;
+    border: 3px black solid;
+}
+
+#studies_box
+{
+	display: inline-block;
+	background-color: white;
+    color: black;
+    margin-left: 50px;
+    margin-top: 50px;
+    height: 300px;
+    width: 800px;
+    border: 3px black solid;
+}
+
+#class_studies
+{
+	display: inline-block;
+    color: black;
+    margin-left: 50px;
+    height: 200px;
+    width: 600px;
+    border: 3px black solid;
+}
+
+#footer
+{
+    color: black;
+    height: 150px;
+    border: 3px black solid; 
+}
